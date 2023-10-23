@@ -22,20 +22,18 @@ Acquired knowledge:
 
 
 ## Release History & Organization
-* 3.0
-    * Last revision and delivery project
-* 2.1
-    * Creating the login & register website
-* 2.0
-    * Cfinishing CSS
-    * Full website review
+* 1.0
+    * Preparing the base of the web
+* 1.1
+    * Structuring the HTML
 * 1.2
     * Checking HTML bugs
     * Starting the CSS
-* 1.1
-    * Structuring the HTML
-* 1.0
-    * Preparing the base of the web
+* 2.0
+    * Finishing CSS
+    * Full website review  
+* 3.0
+    * Last revision and delivery project
 
 
 <!-- ACKNOWLEDGMENTS -->
